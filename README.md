@@ -76,17 +76,17 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
 
 1. Une puce
 2. Une autre puce
-    * Une sous-puce
-    * Une autre sous-puce
+    1. Une sous-puce
+    2. Une autre sous-puce
 3. Et encore une autre puce !
 
 `1. Une puce`
 
 `2. Une autre puce`
 
-    `* Une sous-puce`
+    `1. Une sous-puce`
     
-    `* Une autre sous-puce`
+    `2. Une autre sous-puce`
     
 `3. Et encore une autre puce !`
 
