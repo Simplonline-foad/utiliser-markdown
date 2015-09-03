@@ -4,7 +4,7 @@ Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichi
 
 Voici un mot *en italique* 
 
-Votre mot se trouve entre astérisques '*mon-mot*'
+Votre mot se trouve entre astérisques <code>*mon-mot*</code>
 
 Voici un mot __en gras__ ! 
 
