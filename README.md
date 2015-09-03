@@ -135,6 +135,8 @@ Pour faire un accent grave, il vous suffit de faire `AltGr` + `7` sur votre clav
 
 Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
 
+Il vous faut le mot sur lequel vous souhaitez faire votre lien entre crochets [], puis votre lien entre parenthèses ().
+
 `Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !`
 
 -----------------
