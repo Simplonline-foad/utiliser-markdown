@@ -43,7 +43,7 @@ Voici un code en C :
         return 0;
     }
 
-Ecrire juste un morceau de code comme <code><h1>Titre</h1></code> avec les balises <code> </code>
+`<h1>Titre</h1>`
 
 Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
 
