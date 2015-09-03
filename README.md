@@ -4,6 +4,8 @@ Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichi
 
 -----------------
 
+#####Les Titres
+
 Voici un mot *en italique* 
 
 Votre mot se trouve entre astérisques `*mon-mot*`
@@ -15,6 +17,8 @@ Voici un mot __en gras__ !
 Votre mot se trouve entre des `_underscores_` 
 
 -----------------
+
+
 
 # Titre de niveau 1 
 Pour un titre de niveau 1 (h1), il faut placer un `#titre` devant votre titre.
