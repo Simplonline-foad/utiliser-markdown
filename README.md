@@ -26,7 +26,9 @@ Pour faire une liste à puces
 
 Il faut simplement placer un astérisque devant les éléments de votre liste.
 `* Une puce`
+
 `* Une autre puce`
+
 `* Et encore une autre puce !`
 
 
