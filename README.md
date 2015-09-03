@@ -1,11 +1,15 @@
-# readme-aide
-Un fichier Readme avec toutes les balises pour pouvoir vous aider à faire le votre.
+# readme-memento
+Voici un petit fichier memento pour vous indiquer les principales syntaxes que vous pouvez utiliser en markdown.
+Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichier.
 
-Voici un mot *important* à mon sens
+Voici un mot *en italique* 
+Votre mot se trouve entre astérisques '*mon-mot*'
 
-Voici des mots __très importants__, j'insiste !
+Voici un mot __en gras__ ! 
+Votre mot se trouve entre des underscore '_mon-mot_'
 
-# Titre de niveau 1
+# Titre de niveau 1 
+Pour un titre de niveau 1 (h1), il faut placer un '#' devant votre titre.
 
 ## Titre de niveau 2
 
