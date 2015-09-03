@@ -4,7 +4,7 @@ Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichi
 
 -----------------
 
-#####Les Titres
+####Les Titres
 
 Voici un mot *en italique* 
 
