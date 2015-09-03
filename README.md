@@ -4,7 +4,7 @@ Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichi
 
 -----------------
 
-####Les Titres
+####Mettre un mot en italique
 
 Voici un mot *en italique* 
 
@@ -12,13 +12,15 @@ Votre mot se trouve entre astérisques `*mon-mot*`
 
 -----------------
 
+####Mettre un mot en gras
+
 Voici un mot __en gras__ ! 
 
 Votre mot se trouve entre des `_underscores_` 
 
 -----------------
 
-
+####Les titres
 
 # Titre de niveau 1 
 Pour un titre de niveau 1 (h1), il faut placer un `#titre` devant votre titre.
@@ -30,7 +32,7 @@ Et ainsi de suite jusqu'au h6.
 
 -----------------
 
-Pour faire une liste à puces :
+####Faire une liste à puces
 
 * Une puce
 * Une autre puce
@@ -69,11 +71,17 @@ Et pour imbriquer une liste dans une autre :
 
 -----------------
 
+####Faire une citation
+
 > Ceci est un texte cité. Vous pouvez répondre
 > à cette citation en écrivant un paragraphe
 > normal juste en-dessous !
 
 -----------------
+
+####Ecrire du code
+
+#####Un code entier
 
 Voici un code en C :
 
@@ -83,11 +91,19 @@ Voici un code en C :
         return 0;
     }
 
+#####Juste un morceau de code
+
 `<h1>Titre</h1>`
 
 -----------------
 
+####Mettre un lien
+
 Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
+
+-----------------
+
+####Intégrer une image
 
 ![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
 
