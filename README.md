@@ -145,7 +145,7 @@ Il vous faut le mot sur lequel vous souhaitez faire votre lien entre crochets [ 
 
 
 
-![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+![Simplon.co](http://simplon.co/wp-content/uploads/2015/04/if-coder-keep-coding-else-learn-with-simplon-2-600x675.png)
 
 
 
