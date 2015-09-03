@@ -32,12 +32,23 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
 
 `* Et encore une autre puce !`
 
+Et pour imbriquer une liste dans une autre
 
 * Une puce
 * Une autre puce
     * Une sous-puce
     * Une autre sous-puce
 * Et encore une autre puce !
+
+`* Une puce`
+
+`* Une autre puce`
+
+    `* Une sous-puce`
+    
+    `* Une autre sous-puce`
+    
+`* Et encore une autre puce !`
 
 1. Et de un
 2. Et de deux
