@@ -32,7 +32,7 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
 
 `* Et encore une autre puce !`
 
-Et pour imbriquer une liste dans une autre
+:::php Et pour imbriquer une liste dans une autre :
 
 * Une puce
 * Une autre puce
