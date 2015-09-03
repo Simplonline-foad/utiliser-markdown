@@ -8,9 +8,13 @@ Voici un mot *en italique*
 
 Votre mot se trouve entre astérisques `*mon-mot*`
 
+-----------------
+
 Voici un mot __en gras__ ! 
 
 Votre mot se trouve entre des `_underscores_` 
+
+-----------------
 
 # Titre de niveau 1 
 Pour un titre de niveau 1 (h1), il faut placer un `#titre` devant votre titre.
@@ -19,6 +23,8 @@ Pour un titre de niveau 1 (h1), il faut placer un `#titre` devant votre titre.
 Pour un titre de niveau 2 (h2), il faut cette fois deux `##titre` devant votre titre
 
 Et ainsi de suite jusqu'au h6.
+
+-----------------
 
 Pour faire une liste à puces  
 
@@ -56,9 +62,13 @@ Et pour imbriquer une liste dans une autre :
 2. Et de deux
 3. Et de trois
 
+-----------------
+
 > Ceci est un texte cité. Vous pouvez répondre
 > à cette citation en écrivant un paragraphe
 > normal juste en-dessous !
+
+-----------------
 
 Voici un code en C :
 
@@ -69,6 +79,8 @@ Voici un code en C :
     }
 
 `<h1>Titre</h1>`
+
+-----------------
 
 Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
 
