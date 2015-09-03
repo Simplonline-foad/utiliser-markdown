@@ -2,6 +2,8 @@
 Voici un petit fichier memento pour vous indiquer les principales syntaxes que vous pouvez utiliser en markdown.
 Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichier.
 
+-----------------
+
 Voici un mot *en italique* 
 
 Votre mot se trouve entre astérisques `*mon-mot*`
@@ -32,7 +34,7 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
 
 `* Et encore une autre puce !`
 
-:::php Et pour imbriquer une liste dans une autre :
+Et pour imbriquer une liste dans une autre :
 
 * Une puce
 * Une autre puce
@@ -72,6 +74,6 @@ Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendr
 
 ![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
 
------------------
+
 
 
