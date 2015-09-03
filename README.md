@@ -143,10 +143,23 @@ Il vous faut le mot sur lequel vous souhaitez faire votre lien entre crochets [ 
 
 ####Intégrer une image
 
+La syntaxe est la même que pour un lien, il suffit juste d'ajouter un point d'exclamation devant les crochets. 
 
+Ce que vous mettez entre crochet est le texte alternatif de l'image, que nous vous conseillons fortement d'intégrer à chaque fois que vous mettez une image.
+
+Important : ça ne marche qu'avec des url d'images prises sur le web.
+
+`![Simplon.co](http://simplon.co/wp-content/uploads/2015/04/if-coder-keep-coding-else-learn-with-simplon-2-600x675.png)`
 
 ![Simplon.co](http://simplon.co/wp-content/uploads/2015/04/if-coder-keep-coding-else-learn-with-simplon-2-600x675.png)
 
+-----------------
 
+####Barre de séparation
 
+Pour faire une barre de séparation il vous suffit d'écrire plusieurs - d'affilé.
+
+`-----------------`
+
+----
 
