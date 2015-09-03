@@ -37,5 +37,12 @@ Voici un code en C :
         return 0;
     }
 
+La fonction `printf()` permet d'afficher du texte
+
+Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
+
+![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+
+-----------------
 
 
