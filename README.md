@@ -133,15 +133,17 @@ Pour faire un accent grave, il vous suffit de faire `AltGr` + `7` sur votre clav
 
 ####Mettre un lien
 
-Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
+Rendez-vous sur [Simplonline](http://www.simplonline.com) !
 
 Il vous faut le mot sur lequel vous souhaitez faire votre lien entre crochets [ ], puis votre lien entre parenthèses ( ).
 
-`Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !`
+`Rendez-vous sur [Simplonline](http://www.simplonline.com) !`
 
 -----------------
 
 ####Intégrer une image
+
+
 
 ![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
 
