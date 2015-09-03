@@ -126,13 +126,16 @@ Il vous suffit d'écrire votre phrase de présentation comme n'importe quelle ph
 
 `<h1>Titre</h1>`
 
-Il vous suffit d'entourer votre morceau de code avec deux accents graves `` ``
+Il vous suffit d'entourer votre morceau de code avec deux accents graves.
+Pour faire un accent grave, il vous suffit de faire `AltGr` + `7` sur votre clavier.
 
 -----------------
 
 ####Mettre un lien
 
 Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
+
+`Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !`
 
 -----------------
 
