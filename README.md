@@ -157,7 +157,7 @@ Important : ça ne marche qu'avec des url d'images prises sur le web.
 
 ####Barre de séparation
 
-Pour faire une barre de séparation il vous suffit d'écrire plusieurs - d'affilé. Plus vous en mettrez plus le trait sera épais.
+Pour faire une barre de séparation il vous suffit d'écrire plusieurs `-` d'affilé. Plus vous en mettrez plus le trait sera épais.
 
 `-----------------`
 
