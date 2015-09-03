@@ -11,15 +11,24 @@ Voici un mot __en gras__ !
 Votre mot se trouve entre des `_underscores_` 
 
 # Titre de niveau 1 
-Pour un titre de niveau 1 (h1), il faut placer un '#' devant votre titre.
+Pour un titre de niveau 1 (h1), il faut placer un `#titre` devant votre titre.
 
 ## Titre de niveau 2
+Pour un titre de niveau 2 (h2), il faut cette fois deux `##titre` devant votre titre
 
-### Titre de niveau 3
+Et ainsi de suite jusqu'au h6.
+
+Pour faire une liste à puces  
 
 * Une puce
 * Une autre puce
 * Et encore une autre puce !
+
+Il faut simplement placer un astérisque devant les éléments de votre liste.
+`* Une puce
+* Une autre puce
+* Et encore une autre puce !`
+
 
 * Une puce
 * Une autre puce
