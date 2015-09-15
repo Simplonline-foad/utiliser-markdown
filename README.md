@@ -16,7 +16,7 @@ Votre mot se trouve entre astérisques `*mon-mot*`
 
 Voici un mot __en gras__ ! 
 
-Votre mot se trouve entre des `_underscores_` 
+Votre mot se trouve entre deux `__underscores__` 
 
 -----------------
 
