@@ -2,7 +2,16 @@
 Voici un petit fichier memento pour vous indiquer les principales syntaxes que vous pouvez utiliser en markdown.
 Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichier.
 
------------------
+----------------
+
+####Aller à la ligne
+
+Voici un  
+changement de ligne
+
+Votre ligne doit se terminer par 2 espaces pour faire un retour-chariot
+
+----------------
 
 ####Mettre un mot en italique
 
