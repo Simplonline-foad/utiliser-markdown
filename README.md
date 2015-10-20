@@ -34,13 +34,10 @@ Et ainsi de suite jusqu'au h6.
 
 ####Aller à la ligne en fin de phrase
 
-Voici un  
+Pour faire un  
 changement de ligne
 
 Votre ligne doit se terminer par 2 `espaces` pour faire ce qu'on appelle un __retour-chariot__, c'est à dire aller à la ligne.
-
-`Voici un  `
-`changement de ligne`
 
 -----------------
 
