@@ -9,7 +9,7 @@ Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichi
 Voici un  
 changement de ligne
 
-Votre ligne doit se terminer par 2 espaces pour faire un retour-chariot
+Votre ligne doit se terminer par 2 `espaces` pour faire un retour-chariot
 
 ----------------
 
