@@ -4,7 +4,7 @@ Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichi
 
 ----------------
 
-####Mettre un mot en italique
+#### Mettre un mot en italique
 
 Voici un mot *en italique* 
 
@@ -12,7 +12,7 @@ Votre mot se trouve entre astérisques `*mon-mot*`
 
 -----------------
 
-####Mettre un mot en gras
+#### Mettre un mot en gras
 
 Voici un mot __en gras__ ! 
 
@@ -20,19 +20,19 @@ Votre mot se trouve entre deux `__underscores__`
 
 -----------------
 
-####Les titres
+#### Les titres
 
 # Titre de niveau 1 
-Pour un titre de niveau 1 (h1), il faut placer un `#titre` devant votre titre.
+Pour un titre de niveau 1 (h1), il faut placer un `# titre` devant votre titre.
 
 ## Titre de niveau 2
-Pour un titre de niveau 2 (h2), il faut cette fois deux `##titre` devant votre titre
+Pour un titre de niveau 2 (h2), il faut cette fois deux `## titre` devant votre titre
 
 Et ainsi de suite jusqu'au h6.
 
 -----------------
 
-####Aller à la ligne en fin de phrase
+#### Aller à la ligne en fin de phrase
 
 Pour faire un  
 changement de ligne
@@ -41,7 +41,7 @@ Votre ligne doit se terminer par 2 `espaces` pour faire ce qu'on appelle un __re
 
 -----------------
 
-####Faire une liste à puces
+#### Faire une liste à puces
 
 * Une puce
 * Une autre puce
@@ -55,7 +55,7 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
 
 `* Et encore une autre puce !`
 
-######Pour faire une liste ordonnée : 
+###### Pour faire une liste ordonnée : 
 
 1. Et de un
 2. Et de deux
@@ -65,7 +65,7 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
 `2. Et de deux`
 `3. Et de trois`
 
-######Pour imbriquer une liste dans une autre :
+###### Pour imbriquer une liste dans une autre :
 
 * Une puce
 * Une autre puce
@@ -101,7 +101,7 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
 
 -----------------
 
-####Faire une citation
+#### Faire une citation
 
 > Ceci est un texte cité. Vous pouvez répondre
 > à cette citation en écrivant un paragraphe
@@ -113,9 +113,9 @@ Il vous suffit d'ajouter un `>` devant votre citation.
 
 -----------------
 
-####Ecrire du code
+#### Ecrire du code
 
-#####Un code entier
+##### Un code entier
 
 Voici un code en C :
 
@@ -135,7 +135,7 @@ Il vous suffit d'écrire votre phrase de présentation comme n'importe quelle ph
         return 0;
     }
 
-#####Juste un morceau de code
+##### Juste un morceau de code
 
 `<h1>Titre</h1>`
 
@@ -144,7 +144,7 @@ Pour faire un accent grave, il vous suffit de faire `AltGr` + `7` sur votre clav
 
 -----------------
 
-####Mettre un lien
+#### Mettre un lien
 
 Rendez-vous sur [Simplonline](http://www.simplonline.com) !
 
@@ -154,7 +154,7 @@ Il vous faut le mot sur lequel vous souhaitez faire votre lien entre crochets [ 
 
 -----------------
 
-####Intégrer une image
+#### Intégrer une image
 
 La syntaxe est la même que pour un lien, il suffit juste d'ajouter un point d'exclamation devant les crochets. 
 
@@ -168,7 +168,7 @@ Important : ça ne marche qu'avec des url d'images prises sur le web.
 
 -----------------
 
-####Barre de séparation
+#### Barre de séparation
 
 Pour faire une barre de séparation il vous suffit d'écrire plusieurs `-` d'affilé. Plus vous en mettrez plus le trait sera épais.
 
